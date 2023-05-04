@@ -1,0 +1,83 @@
+
+body{
+
+    overflow: hidden;
+margin: 0;
+padding: 0;
+}
+.container{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+
+    margin: 0;
+    padding: 0;
+}
+/* button voltar */
+.voltar0101 {
+cursor: pointer;
+    align-content: center;
+background-color: #930009;
+color: white;
+margin-top: 5%;
+border-radius: 70px;
+width: 285px;
+height: 90px;
+font-size: 45px;
+font-family: 'Volkhov', serif;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+/* title */
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+.escrita00 {
+
+    text-align: center;
+}
+
+.para {
+ font-size: 120px;
+ margin-top: 5px;
+
+}
+.escrita00 {
+
+color: #930009;
+font-size: 50px;
+margin-bottom: 9px;
+
+}
+.estrelaescura{
+    position: absolute;
+    width: 100px;
+}
+.estrelavazada1, .estrelavazada2{
+    display: inline;
+    width: 300px;
+    margin-bottom: 20px;
+}
+.estrelavazada2{
+    position: absolute;
+    top: 0;
+    right: 02%;
+}
+#Img_Macaco{
+    width: 275px;
+    position: relative;
+    left: 61.5%;
+
+}
